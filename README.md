@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://in.linkedin.com/in/hrithik-gharat-139117201#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://in.linkedin.com/in/hrithik-gharat-139117201#gh-dark-mode-only)
+[![website](https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png)](https://in.linkedin.com/in/hrithik-gharat-139117201#gh-light-mode-only)
+[![website](https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png)](https://in.linkedin.com/in/hrithik-gharat-139117201#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ---
