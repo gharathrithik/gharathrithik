@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 I'm currently working as a systems engineer in Infosys
 - 🌱 I’m currently learning Data Analytics and Data Science
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking for opportunities to grow in the field of analytics
 - 🥅 2023 Goals: Learn more about AI/ML
 
 <details>
