@@ -5,14 +5,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about AI/ML
 
-### Connect with me:
-
-[![website](file:///C:/Users/hrithik.gharat/Downloads/linkedin.svg)](https://in.linkedin.com/in/hrithik-gharat-139117201#gh-light-mode-only)
-[![website](file:///C:/Users/hrithik.gharat/Downloads/linkedin.svg)](https://in.linkedin.com/in/hrithik-gharat-139117201#gh-dark-mode-only)
-&nbsp;&nbsp;
-
----
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
